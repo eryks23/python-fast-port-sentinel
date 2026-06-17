@@ -1,3 +1,0 @@
-# network_scanner.py has no external dependencies.
-# It relies solely on the Python standard library:
-#   socket, threading, time, sys, datetime
