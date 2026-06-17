@@ -28,7 +28,7 @@ Network Sentinel scans a configurable range of TCP ports on a target host and re
 - [Roadmap](#roadmap)
 - [Contributing](#contributing)
 - [License](#license)
-- [Author / Contact](#author--contact)
+- [Author](#author--contact)
 
 ## Legal Notice
 
@@ -223,9 +223,8 @@ Suggested directions for future versions — not committed deliverables:
 
 Distributed under the MIT License. See [LICENSE](LICENSE) for the full text.
 
-## Author / Contact
+## Author 
 
 Maintained by [eryks23](https://github.com/eryks23).
 
 - Repository: [python-fast-port-sentinel](https://github.com/eryks23/python-fast-port-sentinel)
-- Issues / feature requests: [GitHub Issues](https://github.com/eryks23/python-fast-port-sentinel/issues)
