@@ -56,7 +56,7 @@ This tool performs active TCP connection attempts against a target host. Only sc
 ## Requirements
 
 - Python 3.6 or later (the codebase uses f-strings throughout).
-- No third-party packages — see [`requirements.txt`](requirements.txt).
+- No third-party packages.
 - Outbound network access to the target host. No administrator/root privileges are required: the scanner only opens outbound client connections and never binds a local port or uses raw sockets.
 - Note: rapid, sequential connection attempts can resemble a port-scan signature. Local firewalls, antivirus, or endpoint-detection software may flag or throttle this behavior.
 
