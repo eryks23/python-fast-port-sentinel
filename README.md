@@ -1,6 +1,6 @@
 # Network Sentinel
 
-![Python][(https://img.shields.io/badge/python-3.6%2B-blue)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/python-3.6%2B-blue)](https://www.python.org/)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Dependencies](https://img.shields.io/badge/dependencies-none-lightgrey)
 
